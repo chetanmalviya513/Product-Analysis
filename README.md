@@ -1,2 +1,2 @@
 # Product-Analysis
- Decoding Bestsellers: A Comparative Product Analysis - Analyzed bestselling products using descriptive stats &amp; visual analytics. Built Tableau dashboards with ETL support, boosting customer satisfaction by 20%. Trend &amp; competitor insights drove 3× industry recognition.
+ Decoding Bestsellers: A Comparative Product Analysis - Compared bestselling products across e-commerce sites using descriptive stats and Tableau dashboards. Developed ETL pipelines, improving customer satisfaction by 20% and tripling industry recognition.
