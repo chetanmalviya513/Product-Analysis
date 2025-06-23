@@ -17,6 +17,7 @@ Price variation for identical products across platforms
 By analyzing these factors, we aim to identify which platform offers the best deals and the widest range of choices for consumers.
 
 🎯 Key Focus Areas
+
 1️⃣ Item Analysis
 Total number of brands, products, and categories.
 
