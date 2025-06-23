@@ -1,4 +1,4 @@
-🛍️ Case Study: Comparative Product Analysis of E-Commerce Platforms
+🛍️ Scraped Data Case Study: Product Trends & Pricing Comparison on ShopClues, Ajio & TataCliq
 
 Tableau Public Link - https://public.tableau.com/app/profile/chetanmalviya513/vizzes
 
