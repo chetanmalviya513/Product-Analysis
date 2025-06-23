@@ -1,7 +1,7 @@
 🛍️ Navigating the E-Commerce Terrain: A Comparative Analysis of Top Shopping Websites
 
 📌 Project Overview
-This project presents a comparative analysis of three major e-commerce platforms — Ajio, ShopClues, and TataCliq — based on various shopping metrics. We scraped product and brand data directly from the websites to uncover insights around pricing, discount strategies, and overall catalog offerings. 
+This project presents a comparative analysis of three major e-commerce platforms Ajio, ShopClues, and TataCliq — based on various shopping metrics. We scraped product and brand data directly from the websites to uncover insights around pricing, discount strategies, and overall catalog offerings. 
 
 🧩 Problem Statement
 With the growing number of e-commerce websites, it becomes essential to understand how they compare in terms of:
@@ -65,10 +65,13 @@ Create interactive dashboards
 Visualize patterns in pricing, brands, and discounts
 
 📈 Insights & Comparative Summary
-Platform	Avg Discount	Avg Price	Brands	Products
-Ajio	47.87%	₹1287	2,574	188,254
-ShopClues	48.53%	₹1395	596	71,964
-TataCliq	38.32%	₹1786	376	69,900
+
+| Shopping Platform | Avg Discount (%) | Avg Price (₹) | Brands | Products   |
+|-------------------|------------------|----------------|--------|------------|
+| Ajio              | 47.87            | 1287           | 2574   | 1,88,254   |
+| ShopClues         | 48.53            | 1395           | 596    | 71,964     |
+| TataCliq          | 38.32            | 1786           | 376    | 69,900     |
+
 
 Best Discount: ShopClues (48.53%)
 
