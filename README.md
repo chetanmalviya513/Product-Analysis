@@ -3,7 +3,7 @@
 Tableau Public Link - https://public.tableau.com/app/profile/chetanmalviya513/vizzes
 
 📌 Project Overview
-This project presents a comparative analysis of three major e-commerce platforms Ajio, ShopClues, and TataCliq — based on various shopping metrics. We scraped product and brand data directly from the websites to uncover insights around pricing, discount strategies, and overall catalog offerings. 
+This project presents a comparative analysis of three major e-commerce platforms Ajio, ShopClues, and TataCliq based on various shopping metrics. We scraped product and brand data directly from the websites to uncover insights around pricing, discount strategies, and overall catalog offerings. 
 
 🧩 Problem Statement
 With the growing number of e-commerce websites, it becomes essential to understand how they compare in terms of:
