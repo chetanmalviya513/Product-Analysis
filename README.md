@@ -1,4 +1,4 @@
-🛍️ Navigating the E-Commerce Terrain: A Comparative Analysis of Top Shopping Websites
+🛍️ Case Study: Comparative Product Analysis of E-Commerce Platforms
 
 Tableau Public Link - https://public.tableau.com/app/profile/chetanmalviya513/vizzes
 
