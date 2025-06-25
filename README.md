@@ -1,5 +1,7 @@
 # Scraped Data Case Study: Product Trends & Pricing Comparison on ShopClues, Ajio & TataCliq
 
+Case Study Link - https://medium.com/@chetanmalviya513/scraped-data-case-study-product-trends-pricing-comparison-on-shopclues-ajio-tatacliq-bafd31b8c9bf
+
 Tableau Public Link - https://public.tableau.com/app/profile/chetanmalviya513/vizzes
 
 # Project Overview
